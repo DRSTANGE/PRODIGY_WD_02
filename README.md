@@ -20,7 +20,7 @@ This Git repository contains the source code for a simple stopwatch app develope
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/stopwatch-app.git
+   git clone https://github.com/DRSTANGE/PRODIGY_WD_02.git
    ```
 
 2. Open the `index.html` file in your web browser to launch the stopwatch app.
