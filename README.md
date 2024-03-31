@@ -27,6 +27,9 @@ Open the index.html file in your web browser to launch the stopwatch app.
 Usage:
 
 Start Stopwatch: Click the "Start" button to initiate the stopwatch timer.
+
 Record Lap Time: Click the "Lap" button to record lap times while the stopwatch is running.
+
 Stop Stopwatch: Click the "Stop" button to pause the stopwatch timer.
+
 Reset Stopwatch: Click the "Reset" button to reset the stopwatch timer to zero.
